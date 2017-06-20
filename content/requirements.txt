@@ -1,0 +1,6 @@
+django
+django-filter
+django-guardian
+djangorestframework
+markdown
+psycopg2
