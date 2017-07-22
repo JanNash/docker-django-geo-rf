@@ -13,9 +13,10 @@ apt-get update && \
 apt-get install -y --no-install-recommends \
 	binutils \
 	gdal-bin \
-	libgeos-c1 \
+    libgeoip1 \
 	libgeos-dev \
-	libproj-dev && \
+    libgeo-proj4-perl \
+    python-gdal && \
 cd / && \
 apt-get clean && \
 rm -rf /var/lib/apt/lists/* /var/tmp/* /tmp/*
