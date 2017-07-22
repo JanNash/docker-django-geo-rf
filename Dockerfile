@@ -1,7 +1,7 @@
 # DOCKER-VERSION 17.06.0-ce
 # VERSION 
 
-FROM python:3.6
+FROM python:3.6-stretch
 MAINTAINER Jan Nash <jnash@jnash.de>
 
 ENV PYTHONUNBUFFERED 1
