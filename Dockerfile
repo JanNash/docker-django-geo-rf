@@ -1,5 +1,5 @@
 # DOCKER-VERSION 17.06.0-ce
-# VERSION 0.1.0
+# VERSION 0.2.0
 
 FROM python:3.6-stretch
 MAINTAINER Jan Nash <jnash@jnash.de>
