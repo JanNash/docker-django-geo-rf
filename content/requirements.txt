@@ -1,8 +1,10 @@
 Django==1.11.4
+django-choices==1.6.0
 django-extra-fields==0.9
 django-filter==1.0.4
 django-guardian==1.4.9
 djangorestframework==3.6.3
 Markdown==2.6.8
 psycopg2==2.7.3
+pygments==2.2.0
 pytz==2017.2
