@@ -4,6 +4,6 @@ django-filter==1.0.4
 django-guardian==1.4.9
 djangorestframework==3.6.3
 Markdown==2.6.8
-psycopg2==2.7.2
+psycopg2==2.7.3
 pytz==2017.2
 six==1.10.0
